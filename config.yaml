@@ -26,7 +26,7 @@ monitors:
   - id: www-zie-floswelt-com
     name: Ziegenproblem.FlosWelt.com
     description: 'Ziegenproblem'
-    url: 'https://www.ziegenproblem.floswelt.com'
+    url: 'https://ziegenproblem.floswelt.com'
     method: GET
     expectStatus: 200
 
