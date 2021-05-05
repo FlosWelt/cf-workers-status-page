@@ -30,12 +30,6 @@ monitors:
     method: GET
     expectStatus: 200
 
-  - id: link-floswelt-com
-    name: FlosWelt Link Shortner
-    url: 'https://l.floswelt.com/'
-    method: GET
-    expectStatus: 200
-    
    - id: legal-floswelt-com
     name: FlosWelt Legal
     url: 'https://legal.floswelt.com/'
