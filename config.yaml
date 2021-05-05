@@ -41,3 +41,4 @@ monitors:
     url: 'https://legal.floswelt.com/'
     method: GET
     expectStatus: 200
+ 
