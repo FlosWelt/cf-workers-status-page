@@ -30,8 +30,8 @@ monitors:
     method: GET
     expectStatus: 200
 
-  - id: blog-cloudflare-com
-    name: The Cloudflare Blog
-    url: 'https://blog.cloudflare.com/'
+  - id: link-floswelt-com
+    name: FlosWelt Link Shortner
+    url: 'https://l.floswelt.com/'
     method: GET
     expectStatus: 200
