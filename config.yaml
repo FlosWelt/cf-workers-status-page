@@ -23,10 +23,10 @@ monitors:
     expectStatus: 200 # operational status, default=200
     followRedirect: false # should fetch follow redirects, default=false
 
-  - id: www-cloudflare-com
-    name: www.cloudflare.com
-    description: 'Built for anything connected to the Internet.'
-    url: 'https://www.cloudflare.com'
+  - id: www-zie-floswelt-com
+    name: Ziegenproblem.FlosWelt.com
+    description: 'Ziegenproblem'
+    url: 'https://www.ziegenproblem.floswelt.com'
     method: GET
     expectStatus: 200
 
