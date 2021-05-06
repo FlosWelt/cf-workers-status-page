@@ -33,6 +33,6 @@ monitors:
    - id: legal-floswelt-com
     name: FlosWelt Legal
     url: 'https://legal.floswelt.com/'
-    method: GET
+    method: GET 
     expectStatus: 200
  
